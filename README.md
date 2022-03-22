@@ -11,6 +11,7 @@ The objective of the project is to provide business process automation, informat
 <img src="scheduling.PNG" width="600">
 <img src="documents.PNG" width="600">
 <img src="notifications.PNG" width="600">
+
 ## Mobile app
 <img src="intro1.jpg" width="200">
 <img src="intro3.jpg" width="200">
