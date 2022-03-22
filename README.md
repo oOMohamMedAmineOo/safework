@@ -19,7 +19,7 @@ The objective of the project is to provide business process automation, informat
 <img src="mobile-home.jpg" width="200">
 <img src="mobile-notifications.jpg" width="200">
 <img src="mobile-observations.jpg" width="200">
-<img src="mobile-add-observations.jpg" width="200">
+<img src="mobile-add-observation.jpg" width="200">
 <img src="mobil-observation-form.jpg" width="200">
 <img src="mobile-dms.jpg" width="200">
 <img src="mobile-current-activities.jpg" width="200">
